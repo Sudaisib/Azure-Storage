@@ -9,14 +9,23 @@
 ## 🗂️ **Table of Contents**
 
 1️⃣ [📌 Introduction](#-introduction)
+
 2️⃣ [⚙️ Prerequisites](#-prerequisites)
+
 3️⃣ [🧩 Key Concepts](#-key-concepts)
+
 4️⃣ [📦 Step 1: Create a Resource Group](#-step-1-create-a-resource-group)
+
 5️⃣ [💾 Step 2: Create a Storage Account](#-step-2-create-a-storage-account)
+
 6️⃣ [🔒 Step 3: Configure Storage Account Settings](#-step-3-configure-storage-account-settings)
+
 7️⃣ [🚀 Next Steps](#-next-steps)
+
 8️⃣ [📌 Conclusion](#-conclusion)
+
 9️⃣ [📝 Blog Details](#-blog-details)
+
 🔟 [🤝 Connect & Share](#-connect--share)
 
 ---
@@ -65,11 +74,17 @@ A **Resource Group** is a logical container for managing related Azure resources
 
 **How to create it:**
 1️⃣ Sign in to the **Azure portal**.
+
 2️⃣ In the search bar, type **“Resource groups”** and select it.
+
 3️⃣ Click **+ Create**.
+
 4️⃣ Enter a **Resource Group Name** (e.g., `Ibrahim`).
+
 5️⃣ Choose a **Region** near your users or project location.
+
 6️⃣ Click **Review + create** to validate.
+
 7️⃣ Click **Create** to deploy.
 
 ✅ Your Resource Group is now ready to organize your related resources.
@@ -82,7 +97,9 @@ A **Storage Account** in Azure acts as a unique namespace for your blobs, file s
 
 **How to create it:**
 1️⃣ From the Azure portal, search **“Storage accounts”** and select it.
+
 2️⃣ Click **+ Create**.
+
 3️⃣ On the **Basics** tab:
 
 * Select the **Resource Group** you just created.
@@ -91,6 +108,7 @@ A **Storage Account** in Azure acts as a unique namespace for your blobs, file s
 * Set **Performance** to *Standard*.
 * Keep **Replication** as *Locally-redundant storage (LRS)* for now.
   4️⃣ Click **Review + create**, then **Create**.
+  
   5️⃣ When deployment completes, click **Go to resource**.
 
 ---
@@ -133,9 +151,13 @@ Before storing files or data, adjust settings to align with security, performanc
 After setting up your Storage Account, explore these topics to level up your skills:
 
 ✅ How to upload and manage **Blob Containers**
+
 ✅ Setting **Access Control (IAM)** for secure collaboration
+
 ✅ Automating **lifecycle management** for cost optimization
+
 ✅ Integrating Azure Storage with **Virtual Machines** or **Web Apps**
+
 ✅ Using **Azure CLI** or **Terraform** for infrastructure as code
 
 ---
@@ -146,7 +168,9 @@ Setting up your first **Azure Storage Account** is more than just a technical st
 
 You now know how to:
 ✅ Create a **Resource Group**
+
 ✅ Deploy a **Storage Account**
+
 ✅ Configure key **security and cost settings**
 
 Use this knowledge to build smarter, more secure, and scalable solutions in the cloud!
@@ -165,9 +189,13 @@ For the **full detailed guide**, with more screenshots, practical tips, and trou
 
 If you found this guide helpful:
 ✅ **Star this repository** ⭐
+
 ✅ **Fork it and build on it**
+
 ✅ **Share it** with friends or colleagues learning Azure
+
 ✅ Connect with me on [LinkedIn](https://www.linkedin.com/in/oladosu-ibrahim/)
+
 ✅ Follow for more tutorials! 🚀
 
 ---
