@@ -69,8 +69,8 @@ This project is your **hands-on starting point** for understanding the foundatio
 * **Azure Storage Services** — Blob, File, Queue, and Table basics.
 * **Azure Activity Log** — For tracking resource creation and changes.
 
-📖 **Link to Project README:**
-[📂 View Full Project Guide → Building Blocks of the Cloud](#https://github.com/Sudaisib/Azure-Storage/blob/main/Create%20and%20Secure%20an%20Azure%20Storage%20Account/README.md)
+📖 **Read the full project:**
+[📂 Building Blocks of the Cloud](https://github.com/Sudaisib/Azure-Storage/blob/main/Create%20and%20Secure%20an%20Azure%20Storage%20Account/README.md)
 
 ---
 
@@ -191,3 +191,11 @@ Licensed under the **MIT License** — feel free to fork, adapt, and share with 
 Thank you for exploring this **Azure Storage Projects Portfolio** — may it serve as a valuable guide as you build, secure, and optimize your cloud storage solutions!
 
 ---
+
+
+
+
+
+
+
+
