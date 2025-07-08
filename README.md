@@ -70,7 +70,7 @@ This project is your **hands-on starting point** for understanding the foundatio
 * **Azure Activity Log** — For tracking resource creation and changes.
 
 📖 **Link to Project README:**
-[📂 View Full Project Guide → Building Blocks of the Cloud](#) *(Replace with your actual project link once added)*
+[📂 View Full Project Guide → Building Blocks of the Cloud](#https://github.com/Sudaisib/Azure-Storage/blob/main/Create%20and%20Secure%20an%20Azure%20Storage%20Account/README.md)
 
 ---
 
