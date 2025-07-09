@@ -15,7 +15,10 @@ This repository is dedicated to documenting practical, hands-on examples and bes
 1️⃣ **[Introduction](#-introduction)**
 
 2️⃣ **[Projects Overview](#-projects-overview)**
+
     🔹 **[Project 1: Building Blocks of the Cloud — How to Create and Secure an Azure Storage Account](#-project-1-building-blocks-of-the-cloud--how-to-create-and-secure-an-azure-storage-account)**
+    
+    🔹 **[Project 2: Building a Resilient Public Website with Azure Storage: High Availability, Soft Delete, and Blob Versioning in Action](#-project-2-building-a-resilient-public-website-with-azure-storage-high-availability-soft-delete-and-blob-versioning-in-action)**
 
 3️⃣ **[Types of Storage Services](#-types-of-storage-services)**
 
@@ -34,7 +37,6 @@ This repository is dedicated to documenting practical, hands-on examples and bes
 🔟 **[Documentation & References](#-documentation--references)**
 
 1️⃣1️⃣ **[Contact Information](#-contact-information)**
-
 ---
 
 ## 📖 **Introduction**
@@ -73,6 +75,33 @@ This project is your **hands-on starting point** for understanding the foundatio
 [📂 Building Blocks of the Cloud](https://github.com/Sudaisib/Azure-Storage/blob/main/Create%20and%20Secure%20an%20Azure%20Storage%20Account/README.md)
 
 ---
+
+### 🔹 **Project 2: Building a Resilient Public Website with Azure Storage: High Availability, Soft Delete, and Blob Versioning in Action**
+
+📌 **Introduction:**
+This project demonstrates how to host a **public static website** using **Azure Blob Storage**, with a strong focus on **high availability**, **data protection**, and **versioning** strategies. Learn how to enable the static website feature, implement **Soft Delete** to recover accidentally deleted blobs, and configure **Blob Versioning** for point-in-time recovery.
+
+✅ **Key Features:**
+
+* Configure **Static Website Hosting** in an Azure Storage Account.
+* Implement **Soft Delete** to safeguard against accidental deletions.
+* Enable **Blob Versioning** to maintain historical versions of content.
+* Test and verify data durability and failover scenarios.
+
+🛠️ **Technologies Used:**
+
+* **Azure Blob Storage Static Website Hosting** — to serve static HTML/CSS/JS files.
+* **Soft Delete** — to recover deleted blobs.
+* **Blob Versioning** — to maintain and restore previous file versions.
+* **Azure Portal** — for configuration and management.
+* **Azure Storage Explorer** — for easy blob management.
+* **Azure Resource Manager (ARM)** — for resource deployment and consistency.
+
+📖 **Read the full project:**
+[📂 Building a Resilient Public Website](https://github.com/Sudaisib/Azure-Storage/tree/main/Public%20Website%20with%20Azure%20Storage)
+
+---
+
 
 ## 📂 **Types of Storage Services**
 
