@@ -12,8 +12,6 @@ This repository is dedicated to documenting practical, hands-on examples and bes
 
 ## 📌 **Table of Contents** 🗂️
 
-## 📌 **Table of Contents** 🗂️
-
 1️⃣ **[Introduction](#-introduction)**
 
 2️⃣ **[Projects Overview](#-projects-overview)**
