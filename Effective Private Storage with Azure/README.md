@@ -174,11 +174,12 @@ Use replication to back up your public site’s content into secure storage:
 * Source: public container (e.g., `public`)
 * Destination storage: your **private account**
 * Destination container: `backup`
-  4️⃣ Save the rule
+
+4️⃣ Save the rule
   
-  5️⃣ Upload a test file to the public container
+5️⃣ Upload a test file to the public container
   
-  ✅ After a few minutes, the file will appear in the private backup container.
+✅ After a few minutes, the file will appear in the private backup container.
 
 ---
 
