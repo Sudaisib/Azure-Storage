@@ -12,13 +12,17 @@ This repository is dedicated to documenting practical, hands-on examples and bes
 
 ## 📌 **Table of Contents** 🗂️
 
+## 📌 **Table of Contents** 🗂️
+
 1️⃣ **[Introduction](#-introduction)**
 
 2️⃣ **[Projects Overview](#-projects-overview)**
 
     🔹 **[Project 1: Building Blocks of the Cloud — How to Create and Secure an Azure Storage Account](#-project-1-building-blocks-of-the-cloud--how-to-create-and-secure-an-azure-storage-account)**
-    
+
     🔹 **[Project 2: Building a Resilient Public Website with Azure Storage: High Availability, Soft Delete, and Blob Versioning in Action](#-project-2-building-a-resilient-public-website-with-azure-storage-high-availability-soft-delete-and-blob-versioning-in-action)**
+
+    🔹 **[Project 3: Designing Secure and Cost-Effective Private Storage with Azure: Redundancy, Access Control, and Lifecycle Management](#-project-3-designing-secure-and-cost-effective-private-storage-with-azure-redundancy-access-control-and-lifecycle-management)**
 
 3️⃣ **[Types of Storage Services](#-types-of-storage-services)**
 
@@ -98,10 +102,35 @@ This project demonstrates how to host a **public static website** using **Azure 
 * **Azure Resource Manager (ARM)** — for resource deployment and consistency.
 
 📖 **Read the full project:**
-[📂 Building a Resilient Public Website](https://github.com/Sudaisib/Azure-Storage/tree/main/Public%20Website%20with%20Azure%20Storage)
+[📂 Building a Resilient Public Website](https://github.com/Sudaisib/Azure-Storage/edit/main/Effective%20Private%20Storage%20with%20Azure/README.md)
 
 ---
 
+### 🔹 **Project 3: Designing Secure and Cost-Effective Private Storage with Azure: Redundancy, Access Control, and Lifecycle Management**
+
+📌 **Introduction:**
+This project focuses on creating a secure and efficient private storage solution using Azure Storage. The configuration includes **private containers**, **access control via Shared Access Signatures (SAS)**, **geo-redundant backup**, and **lifecycle rules** to automatically optimize cost by moving unused files to cooler tiers. It’s perfect for businesses that need internal document protection, controlled B2B sharing, and disaster recovery.
+
+✅ **Key Features:**
+
+* Deploy a **Geo-Redundant** storage account for high availability.
+* Create **Private Containers** with no anonymous access.
+* Use **SAS Tokens** to give secure, time-limited access to external collaborators.
+* Implement **Lifecycle Management** rules to tier down stale data and save on costs.
+* Configure **Object Replication** to back up data from public to private containers.
+
+🛠️ **Technologies Used:**
+
+* **Azure Blob Storage**
+* **SAS Tokens** for fine-grained access
+* **Lifecycle Management Policies**
+* **Object Replication**
+* **Azure Portal** and **Storage Explorer**
+
+📖 **Read the full project:**
+[📂 Designing Secure and Cost-Effective Private Storage](https://dev.to/sudaisib/designing-secure-and-cost-effective-private-storage-with-azure-redundancy-access-control-and-4ok7)
+
+---
 
 ## 📂 **Types of Storage Services**
 
