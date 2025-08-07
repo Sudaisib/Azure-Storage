@@ -4,7 +4,7 @@
 
 # ☁️ **Azure Storage Projects Portfolio** 🚀
 
-Welcome to my **Azure Storage Projects Portfolio!** 
+Welcome to my **Azure Storage Projects Portfolio!**
 
 This repository is dedicated to documenting practical, hands-on examples and best practices for setting up and managing **Azure Storage Accounts**. It’s designed as both a self-learning tool and a reference for other cloud beginners or professionals looking to master **Microsoft Azure Storage Services**.
 
@@ -22,6 +22,8 @@ This repository is dedicated to documenting practical, hands-on examples and bes
 
     🔹 **[Project 3: Designing Secure and Cost-Effective Private Storage with Azure: Redundancy, Access Control, and Lifecycle Management](#-project-3-designing-secure-and-cost-effective-private-storage-with-azure-redundancy-access-control-and-lifecycle-management)**
 
+    🔹 **[Project 4: End-to-End Azure Files Deployment: From Storage Accounts to Restoring Data Securely](#-project-4-end-to-end-azure-files-deployment-from-storage-accounts-to-restoring-data-securely)**
+
 3️⃣ **[Types of Storage Services](#-types-of-storage-services)**
 
 4️⃣ **[Comparison of Azure Storage Services](#-comparison-of-azure-storage-services)**
@@ -38,7 +40,8 @@ This repository is dedicated to documenting practical, hands-on examples and bes
 
 🔟 **[Documentation & References](#-documentation--references)**
 
-1️⃣1️⃣ **[Contact Information](#-contact-information)**
+1️1️⃣ **[Contact Information](#-contact-information)**
+
 ---
 
 ## 📖 **Introduction**
@@ -127,6 +130,32 @@ This project focuses on creating a secure and efficient private storage solution
 
 📖 **Read the full project:**
 [📂 Designing Secure and Cost-Effective Private Storage](https://dev.to/sudaisib/designing-secure-and-cost-effective-private-storage-with-azure-redundancy-access-control-and-4ok7)
+
+---
+
+### 🔹 **Project 4: End-to-End Azure Files Deployment: From Storage Accounts to Restoring Data Securely**
+
+📌 **Introduction:**
+This project dives into deploying **Azure File Shares**, managing access via **Azure Active Directory (AAD)** or **Storage Account Keys**, backing up with **Azure Backup**, and finally performing a secure restore. You'll gain hands-on experience with Azure Files in both Windows and Linux environments.
+
+✅ **Key Features:**
+
+* Create and configure an **Azure Storage Account** with File service enabled
+* Deploy and mount **Azure File Shares** on Windows and Linux VMs
+* Use **Access Keys**, **SAS URLs**, and **Azure AD DS Authentication**
+* Enable **Azure Backup** for file shares
+* Perform **file-level restore** from recovery points
+
+🛠️ **Technologies Used:**
+
+* **Azure File Shares**
+* **Azure Virtual Machines**
+* **Azure Backup & Recovery Vault**
+* **Azure AD DS** (Active Directory Domain Services)
+* **PowerShell / Bash** for mounting shares
+
+📖 **Read the full project:**
+[📂 End-to-End Azure Files Deployment](https://github.com/Sudaisib/Azure-Storage/blob/main/End-to-End%20Azure%20Files%20Deployment/README.md)
 
 ---
 
