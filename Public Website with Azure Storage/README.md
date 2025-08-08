@@ -79,6 +79,8 @@ At the core, you’ll deploy:
 * **One Azure Storage Account** — your secure namespace for storing website data.
 * **One Blob Container** — a logical unit to organize your website’s static files.
 
+<img width="589" height="444" alt="image" src="https://github.com/user-attachments/assets/fa83e1ff-8922-4d6b-96e9-1e91b8066ad4" />
+
 Once configured, this setup can serve files **publicly** to anyone worldwide — resiliently and securely.
 
 ---
