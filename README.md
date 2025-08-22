@@ -16,13 +16,15 @@ This repository is dedicated to documenting practical, hands-on examples and bes
 
 2️⃣ **[Projects Overview](#-projects-overview)**
 
-    🔹 **[Project 1: Building Blocks of the Cloud — How to Create and Secure an Azure Storage Account](#-project-1-building-blocks-of-the-cloud--how-to-create-and-secure-an-azure-storage-account)**
+🔹 **[Project 1: Building Blocks of the Cloud — How to Create and Secure an Azure Storage Account](#-project-1-building-blocks-of-the-cloud--how-to-create-and-secure-an-azure-storage-account)**
 
-    🔹 **[Project 2: Building a Resilient Public Website with Azure Storage: High Availability, Soft Delete, and Blob Versioning in Action](#-project-2-building-a-resilient-public-website-with-azure-storage-high-availability-soft-delete-and-blob-versioning-in-action)**
+🔹 **[Project 2: Building a Resilient Public Website with Azure Storage: High Availability, Soft Delete, and Blob Versioning in Action](#-project-2-building-a-resilient-public-website-with-azure-storage-high-availability-soft-delete-and-blob-versioning-in-action)**
 
-    🔹 **[Project 3: Designing Secure and Cost-Effective Private Storage with Azure: Redundancy, Access Control, and Lifecycle Management](#-project-3-designing-secure-and-cost-effective-private-storage-with-azure-redundancy-access-control-and-lifecycle-management)**
+🔹 **[Project 3: Designing Secure and Cost-Effective Private Storage with Azure: Redundancy, Access Control, and Lifecycle Management](#-project-3-designing-secure-and-cost-effective-private-storage-with-azure-redundancy-access-control-and-lifecycle-management)**
 
-    🔹 **[Project 4: End-to-End Azure Files Deployment: From Storage Accounts to Restoring Data Securely](#-project-4-end-to-end-azure-files-deployment-from-storage-accounts-to-restoring-data-securely)**
+🔹 **[Project 4: End-to-End Azure Files Deployment: From Storage Accounts to Restoring Data Securely](#-project-4-end-to-end-azure-files-deployment-from-storage-accounts-to-restoring-data-securely)**
+
+🔹 **[Project 5: Azure Lock & Key: Controlling Storage Access](#-project-5-azure-lock--key-controlling-storage-access)**
 
 3️⃣ **[Types of Storage Services](#-types-of-storage-services)**
 
@@ -159,6 +161,32 @@ This project dives into deploying **Azure File Shares**, managing access via **A
 
 ---
 
+### 🔹 **Project 5: Azure Lock & Key: Controlling Storage Access**
+
+📌 **Introduction:**
+This project focuses on the **security side of Azure Storage**, teaching you how to manage **who can access files, for how long, and under what conditions**. You’ll set up containers, configure access tiers, create file shares, issue temporary access through **SAS tokens**, and finally **revoke access** by rotating keys.
+
+✅ **Key Features:**
+
+* Create and configure a **Blob Container**.
+* Upload and manage files with **Hot/Cold tiers** for cost optimization.
+* Create and use **Azure File Shares** for collaboration.
+* Generate **SAS Tokens** for time-limited, secure file sharing.
+* Rotate **Access Keys** to revoke unauthorized or expired access.
+
+🛠️ **Technologies Used:**
+
+* **Azure Blob Storage**
+* **Azure File Shares**
+* **Shared Access Signatures (SAS)**
+* **Access Keys & Key Rotation**
+* **Azure Portal**
+
+📖 **Read the full project:**
+[📂 Azure Lock & Key: Controlling Storage Access](https://github.com/Sudaisib/Azure-Storage/blob/main/Azure%20Lock%20&%20Key:%20Controlling%20Storage%20Access/README.md)
+
+---
+
 ## 📂 **Types of Storage Services**
 
 Azure Storage offers multiple **data services** within a Storage Account. Each is designed for different use cases:
@@ -274,13 +302,4 @@ Licensed under the **MIT License** — feel free to fork, adapt, and share with 
 ## 🚀 **Thank You!**
 
 Thank you for exploring this **Azure Storage Projects Portfolio** — may it serve as a valuable guide as you build, secure, and optimize your cloud storage solutions!
-
----
-
-
-
-
-
-
-
 
