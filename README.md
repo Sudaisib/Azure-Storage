@@ -42,7 +42,7 @@ This repository is dedicated to documenting practical, hands-on examples and bes
 
 🔟 **[Documentation & References](#-documentation--references)**
 
-1️1️⃣ **[Contact Information](#-contact-information)**
+1️⃣1️⃣ **[Contact Information](#-contact-information)**
 
 ---
 
